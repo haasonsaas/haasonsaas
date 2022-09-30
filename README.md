@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I’m Jonathan Haas - co-founder and CEO of [ThreatKey](https://threatkey.com) based in New York City. I go by [0xHaas](https://keybase.io/0xHaas) online. I can usually be found at first@domain.com where I work.
+Hi, I’m Jonathan Haas - co-founder and CEO of [ThreatKey](https://threatkey.com) based in San Francisco. I go by [0xHaas](https://keybase.io/0xHaas) online. I can usually be found at first@domain.com where I work.
 
 - 🔭 I’m currently working on incident detection, monitoring, and response
 - 📫 [Contact me](https://0xHaas.com/contact)
