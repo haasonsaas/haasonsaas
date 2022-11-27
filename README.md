@@ -8,5 +8,3 @@ I'm currently hiring for a [Senior Backend Engineer](https://jobs.gusto.com/post
 - 😄 Pronouns: [He/Him/His](https://pronoun.is/he)
 - 📫 How to reach me: [Twitter](https://twitter.com/0xHaas)
 - ⚡ Fun fact: I’m a big fan of [Numb3rs](https://www.imdb.com/title/tt0433309/)
-
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xHaas&show_icons=true&theme=radical)](
