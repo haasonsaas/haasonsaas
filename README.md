@@ -5,4 +5,3 @@ Hi, I’m Jonathan Haas - co-founder and CEO of [ThreatKey](https://threatkey.co
 - 🔭 I’m currently working on the intersection of Cloud and SaaS security
 - 😄 Pronouns: [He/Him/His](https://pronoun.is/he)
 - 📫 How to reach me: [Twitter](https://twitter.com/0xHaas)
-- ⚡ Fun fact: I’m a big fan of [Numb3rs](https://www.imdb.com/title/tt0433309/)
